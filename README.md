@@ -4,7 +4,7 @@
 
 AI companions are apps designed for ongoing emotional, social, or romantic interaction with AI characters. Unlike productivity assistants (ChatGPT, Claude), these focus on persistent relationships, personality, and creative roleplay.
 
-**Last updated: June 2026** | [Suggest an addition](https://github.com/tomasz-buczek/awesome-ai-companions/issues/3)
+**Last updated: September 2026** | [Suggest an addition](https://github.com/tomasz-buczek/awesome-ai-companions/issues/3)
 
 ---
 
